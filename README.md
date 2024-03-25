@@ -1,5 +1,6 @@
 <h1 align="center">Hi 👋, I'm Aldo Tena García</h1>
-<h3 align="center">I am an aspiring software engineer. I am currently studying computer science at Tecnológico de Monterrey and I am eager to learn as much as possible about the field. I am particularly interested in learning everything about the field of cybersecurity. I am excited about the opportunity to work with other talented professionals and contribute to the development of innovative software solutions.</h3>
+<h3 align="center">I am passionate about the world of technology, especially with the branch of networks and cybersecurity, with a dedicated approach to meeting the challenges in this constantly evolving field. My goal is to apply my experience and enthusiasm for cybersecurity in a challenging work environment. I am committed to contributing to the success of any team I join, bringing creativity, diligence and a problem-solving approach.
+</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=atg-5222&label=Profile%20views&color=0e75b6&style=flat" alt="atg-5222" /> </p>
 
@@ -7,7 +8,7 @@
 
 - 🌱 I’m currently learning **all the things I can about cybersecurity.**
 
-- 📫 How to reach me **A01275222@tec.mx**
+- 📫 How to reach me **atg.00019@gmail.com**
 
 - ⚡ Fun fact **CMMI is more than a frame of reference, it is a lifestyle**
 
