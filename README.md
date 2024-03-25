@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **all the things I can about cybersecurity.**
 
-- 👨‍💻 All of my projects are available at [aldotg.tech](aldotg.tech)
+- 👨‍💻 Check my previous projects and portfolio at **aldotg.tech**
 
 - 📫 How to reach me **atg.00019@gmai.com**
 
